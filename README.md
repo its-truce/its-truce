@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="https://discord.com/users/626333424965386240">
-      <img src="https://lanyard.cnrad.dev/api/626333424965386240?animated=true" />
+      <img src="https://lanyard.cnrad.dev/api/626333424965386240?animated=true&idleMessage=I know I'm awesome." />
    </a>
 </p>
 
