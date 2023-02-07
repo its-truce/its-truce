@@ -8,5 +8,6 @@
 
 <p align="center">
    • 🔭 I’m currently working on [Cave Monkey](https://github.com/its-truce/CaveMonkey)!
+   
    • 🌱 I’m currently learning [discord.py](https://github.com/Rapptz/discord.py)!
 </p>
