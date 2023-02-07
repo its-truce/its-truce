@@ -1,4 +1,4 @@
-### hello there!
+<h1 align="center">hello there! ✨</h1>
 
 <!--
 **its-truce/its-truce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
