@@ -1,5 +1,11 @@
 <h1 align="center">hello there! ✨</h1>
 
+<p align="center">
+   <a href="https://discord.com/users/626333424965386240">
+      <img src="https://lanyard.cnrad.dev/api/626333424965386240?animated=true" />
+   </a>
+</p>
+
 <!--
 **its-truce/its-truce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
