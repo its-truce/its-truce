@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   • 🔭 I’m currently working on [Cave Monkey](https://github.com/its-truce/CaveMonkey)!
+   • 🔭 I’m currently working on <a href="https://github.com/its-truce/CaveMonkey" target="_blank">Cave Monkey</a>!
 </p>
 <p align="center">
    • 🌱 I’m currently learning [discord.py](https://github.com/Rapptz/discord.py)!
