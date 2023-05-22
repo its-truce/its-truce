@@ -6,5 +6,5 @@
    </a>
 </p>
 
-* 🔭 I’m currently working on <a href="https://github.com/its-truce/CaveMonkey" target="_blank">Cave Monkey</a>!
-* 🌱 I’m currently learning <a href="https://github.com/Rapptz/discord.py" target="_blank">discord.py</a>!
+* 🔭 I’m currently working on <a href="https://github.com/its-truce/MetanoiaMod" target="_blank">Metanoia</a>!
+* 🌱 I’m currently learning <a href="https://github.com/tModLoader/tModLoader" target="_blank">tModLoader</a>!
