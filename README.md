@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="https://discord.com/users/626333424965386240">
-      <img src="https://lanyard.cnrad.dev/api/626333424965386240?idleMessage=mmhm" />
+      <img src="https://lanyard.cnrad.dev/api/626333424965386240?idleMessage=knows how a meatball feels" />
    </a>
 </p>
 
